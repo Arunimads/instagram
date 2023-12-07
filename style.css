@@ -1,0 +1,123 @@
+.login {
+    border: 1px solid;
+    padding: 50px;
+
+
+
+    width: 200px;
+    height: 300px;
+    position: absolute;
+    right: 450px;
+    top: 100px;
+    align: center;
+}
+
+.img1 {
+    width: 400px;
+    height: 600px;
+    position: relative;
+    left: 100px;
+    top: 50px;
+}
+
+.img2 {
+    width: 213px;
+    height: 415px;
+    position: absolute;
+    top: 147px;
+    left: 232px;
+
+}
+
+.phone {
+    width: 50px;
+    height: 100px;
+    position: absolute;
+    left: 300px;
+}
+
+#insta {
+    width: 200px;
+    height: 100px;
+
+}
+
+button {
+    width: 250px;
+    height: 30px;
+    position: absolute;
+    left: 25px;
+    background-color: rgb(0, 179, 255);
+    border-radius: 5px;
+    border: 1px solid rgb(0, 179, 255);
+}
+
+input {
+    width: 250px;
+    height: 30px;
+    border-radius: 4px;
+    border: 1px solid;
+    position: absolute;
+    left: 25px;
+
+}
+
+#fb {
+
+    width: 15px;
+    height: 15px;
+
+}
+
+.signup {
+    width: 300px;
+    height: 50px;
+    border: 1px solid;
+    position: absolute;
+    right: 450px;
+    bottom: 150px;
+    text-align: center;
+
+}
+
+.app {
+    display: flex;
+    width: 125px;
+    height: 40px;
+    position: absolute;
+    right: 600px;
+    bottom: 70px;
+}
+
+#p {
+    width: 125px;
+    height: 40px;
+    position: absolute;
+    right: 500px;
+    bottom: 80px;
+
+}
+
+.hr-lines:before {
+    content: " ";
+    display: flex;
+    height: 1px;
+    width: 110px;
+    position: absolute;
+    top: 290px;
+    left: 22px;
+    background-color: black;
+
+}
+
+.hr-lines:after {
+    content: " ";
+    display: flex;
+    height: 1px;
+    width: 110px;
+    position: absolute;
+    top: 290px;
+    right: 22px;
+    background-color: black;
+
+}
